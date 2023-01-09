@@ -1,0 +1,1 @@
+execute as @s run give @s minecraft:player_head{display:{Name:'{"text":"Coffee Cup"}'},SkullOwner:{Id:[I;111984574,905396334,-1814445964,-1790647506],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkyOTQ1YjQxZGMyMTUxNGU1YzNjODUzMTNlOGJmODJlMjJkOWE5MWQ5ZjA1NTUyMzlkOWJkZDAzNzViODkyMCJ9fX0="}]}}} 1
